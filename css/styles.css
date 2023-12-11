@@ -4,3 +4,6 @@
 @import url(/blocks/logo/logo.css);
 @import url(/blocks/body-text/body-text.css);
 @import url(/blocks/tools/tools.css);
+@import url(/blocks/title/titles.css);
+@import url(/blocks/footer/footer.css);
+@import url(/blocks/body/body.css);

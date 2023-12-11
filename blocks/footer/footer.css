@@ -1,0 +1,40 @@
+.footer {
+  background-color: #000;
+}
+
+.footer__container {
+  padding: 50px 0 150px 0;
+  justify-content: space-between;
+  position: relative;
+}
+
+.footer__copyright {
+  position: absolute;
+  bottom: 30px;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer__rows {
+  display: flex;
+  gap: 150px;
+  flex-wrap: wrap;
+}
+
+.footer__item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.footer__item_two {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.footer__title {
+  margin-bottom: 10px;
+}

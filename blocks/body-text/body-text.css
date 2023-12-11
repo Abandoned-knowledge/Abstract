@@ -1,13 +1,35 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 .body-text {
-    font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+}
+
+.body-text_size_s {
+  font-size: 13px;
+}
+
+.body-text_size_m {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.body-text_size_xl {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.body-text__link:hover {
+  text-decoration: underline;
 }
 
 .body-text_color_white {
-    color: #fff;
+  color: #fff;
 }
 
 .body-text_color_black {
-    color: #000;
+  color: #000;
+}
+.body-text_weigth_bold {
+  font-weight: 700;
 }
