@@ -1,0 +1,9 @@
+.header {
+background-color: #000;
+}
+
+.header__container {
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}

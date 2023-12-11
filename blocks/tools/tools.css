@@ -1,0 +1,13 @@
+.tools {
+  display: flex;
+  gap: 20px;
+  height: fit-content;
+}
+
+.search {
+  height: 20px;
+}
+
+.close-open-button {
+  height: 20px;
+}
