@@ -8,3 +8,6 @@
 @import url(/blocks/footer/footer.css);
 @import url(/blocks/body/body.css);
 @import url(/blocks/button/button.css);
+@import url(/blocks/search-form/search-form.css);
+@import url(/blocks/main/main.css);
+@import url(/blocks/main/main-section/main-section.css);

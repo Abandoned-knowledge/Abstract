@@ -1,0 +1,12 @@
+.search-form__input {
+  width: 700px;
+  padding: 20px 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+}
+
+@media screen and (max-width: 768px) {
+    .search-form__input {
+        width: 90vw;
+      }
+}

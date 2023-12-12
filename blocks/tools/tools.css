@@ -23,3 +23,13 @@
 .close-open-button {
   height: 20px;
 }
+
+@media screen and (max-width: 768px) {
+  .tools__button {
+    display: none;
+  }
+
+  .tools__icons {
+    display: flex;
+  }
+}
