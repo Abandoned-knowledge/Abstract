@@ -11,12 +11,22 @@
 
 .body-text_size_m {
   font-size: 15px;
-  font-weight: 300;
 }
 
 .body-text_size_xl {
   font-size: 20px;
+}
+
+.body-text_weigth_regular {
   font-weight: 400;
+}
+
+.body-text_weigth_medium {
+  font-weight: 500;
+}
+
+.body-text_weigth_bold {
+  font-weight: 700;
 }
 
 .body-text__link:hover {
@@ -29,7 +39,4 @@
 
 .body-text_color_black {
   color: #000;
-}
-.body-text_weigth_bold {
-  font-weight: 700;
 }

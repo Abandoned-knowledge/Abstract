@@ -2,6 +2,18 @@
   display: flex;
   gap: 20px;
   height: fit-content;
+  align-items: center;
+}
+
+.tools__button {
+  display: flex;
+  gap: 20px;
+}
+
+.tools__icons {
+  display: flex;
+  gap: 20px;
+  display: none;
 }
 
 .search {
