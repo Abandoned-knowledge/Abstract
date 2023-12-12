@@ -38,3 +38,15 @@
 .footer__title {
   margin-bottom: 10px;
 }
+
+@media screen and (max-width: 1200px) {
+  .footer__rows {
+    gap: 75px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer__rows {
+    gap: 50px;
+  }
+}
